@@ -1,2 +1,8 @@
 # information-visualization
-Data is everywhere. It helps us to make informed decisions. However, it is always overwhelming to interpret the “raw” data. Visualizations are tools that translate the raw data into meaningful graphics. They take advantage of the powerful human visual system to summarize data in a cognitively efficient way, making them popular in science, analysis, and the media.
+
+CS 5764: Data is the new oil. It enables strategy and decision making. We will leverage this course to understand, visualize and demonstrate our interpretation of raw data using tools that translate the raw data into meaningful graphical representations utilizing cognitive thinking, better user experience and technical tools.
+
+Team: Trailblazers
+Team members: Nidhi Priya, Rutuja Murlidhar Taware, Monish Raj Raghu
+
+Under the sincere guidance of: Yalong Yang and Leonardo Pavanatto
